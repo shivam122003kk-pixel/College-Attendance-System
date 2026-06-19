@@ -1,0 +1,21 @@
+{
+  "name": "PIMT Attendance",
+  "short_name": "PIMT",
+  "description": "Punjab Institute of Management & Technology Attendance System",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#4f63d2",
+  "icons": [
+    {
+      "src": "img/pimt-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pimt-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
